@@ -1,18 +1,25 @@
 ## About Me
 ---------------
 👋Hi there! I'm Eyob Wondyifraw, a web developer residing in Ethiopia, Africa. I'm passionate about creating user-friendly and visually appealing websites.
+<details>
+  <summary>Frontend Skills</summary>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>Web API</li>
+    <li>Tailwind CSS, Bootstrap</li>
+    <li>React</li>
+    <li>Redux</li>
+    <li>Material UI</li>
+  </ul>
+</details>
 
-<!--
-**ebxdev/ebxdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>Backend Skills</summary>
+  <ul>
+    <li>Node.js</li>
+    <li>Express.js</li>
+    <li>MongoDB</li>
+  </ul>
+</details>
