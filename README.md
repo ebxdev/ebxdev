@@ -1,8 +1,6 @@
-## Hi there 👋
-
-### About Me
-
-I'm Eyob Wondyifraw, a web developer residing in Ethiopia
+## About Me
+---------------
+👋Hi there! I'm Eyob Wondyifraw, a web developer residing in Ethiopia, Africa. I'm passionate about creating user-friendly and visually appealing websites.
 
 <!--
 **ebxdev/ebxdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
