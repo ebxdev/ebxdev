@@ -1,5 +1,4 @@
 ## About Me
----------------
 👋Hi there! I'm Eyob Wondyifraw, a web developer residing in Ethiopia, Africa. I'm passionate about creating user-friendly and visually appealing websites.
 <details>
   <summary>:computer: Frontend Skills</summary>
